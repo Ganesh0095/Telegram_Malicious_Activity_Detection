@@ -34,11 +34,12 @@ python manage.py runserver
 
 
 ## Group Members
+- Ganesh Shinde
 - Abhishek Deshmane
 - Amit Sharma
 - Ammanabolu Aakanksha
 - Milind Wasnik
-- Ganesh Shinde
+
 
 
 ## Acknowledgments
