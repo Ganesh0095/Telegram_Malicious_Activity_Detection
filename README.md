@@ -47,6 +47,6 @@ I would like to thank Mr. Sadhu Sreenivas who contributed to our project and pro
 
 
 
-`https://github.com/abhiD01/Telegram_Malicious_Activity_Detection.git`
+`https://github.com/Ganesh0095/Telegram_Malicious_Activity_Detection.git`
 
 # Telegram_Malicious_Activity_Detection
